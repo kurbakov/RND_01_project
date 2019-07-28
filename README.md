@@ -7,7 +7,9 @@ We are providing you with a Udacity Workspace for your project. You can find thi
 
 ## Output Image
 
-// insert image here
+<p align="center">
+  <img src="./images/rnd_project1.png" width=60% height=60% />
+</p>
 
 ## Project Aspects
 
