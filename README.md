@@ -1,17 +1,17 @@
-### Sample Simulation World
+## Sample Simulation World
 
 To help you get started, I’ve included a sample simulation. Reviewing the sample, its aspects, and the directory structure will help you build your own world in Gazebo. Please note that you have only visual access to the sample simulation as it's not provided to you in the Udacity Workspace or anywhere else.
 
 We are providing you with a Udacity Workspace for your project. You can find this Workspace under the headline Gazebo in the Workspace. Whenever you feel ready, launch the Workspace, go to desktop, and start the project!
 
 
-## Output Image
+### Output Image
 
 <p align="center">
   <img src="./images/rnd_project1.png" width=60% height=60% />
 </p>
 
-## Project Aspects
+### Project Aspects
 
 Inside the Gazebo world you can identify:
 
@@ -21,7 +21,7 @@ Inside the Gazebo world you can identify:
 - Terminal: A welcome message generated from a world plugin and printed to the terminal.
 
 
-## Directory Structure
+### Directory Structure
 
 The sample simulation world folder has the following directory structure:
 
@@ -40,6 +40,6 @@ The sample simulation world folder has the following directory structure:
     ├── CMakeLists.txt                 # Link libraries 
     └──                              
 
-## Your task
+### Your task
 
 Note that your project should have the same aspects and should follow the same directory structure as the sample project! Pick a place where you want to deploy your robot, for example: your apartment, your office, or your favorite restaurant. In addition, create any model of your choice and import a model from the Gazebo library. 
